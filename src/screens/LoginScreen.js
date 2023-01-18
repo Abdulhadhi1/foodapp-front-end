@@ -55,8 +55,8 @@ export default function LoginScreen() {
             >
               LOGIN
             </button><br />
-           <p>user:test123@gmail.com</p><br/>
-           <p>password:12345</p>
+           user: test123@.com <br/>
+           password: 12345
            <br />
             <a style={{ color: "black" }} href="/register" className="lg-title">
               Click Here To Register
