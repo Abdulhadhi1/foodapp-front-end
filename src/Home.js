@@ -7,6 +7,7 @@ import step4 from './step-4.jpg';
 import syed from './syed.png';
 import athil from './athil.png';
 import ruhaiz from './ruhaiz.png';
+import home from './home-img.png';
 
 
 function Home() {
@@ -25,7 +26,7 @@ function Home() {
     </div>
 
     <div class="image">
-        <img src="https://media.istockphoto.com/id/511484502/photo/double-cheese-and-bacon-cheeseburger.jpg?s=612x612&w=0&k=20&c=aJkQqm34Gv-UDJSX3bBNfHpV3W740ft3bITVJvS-5PM=" alt="" />
+    <img src={home}/> 
     </div>
  {/* About Us */}
 </section>
@@ -187,23 +188,7 @@ abdul-hadhi-460942216">linkedin</a>
 </section>
 
 
-
-
-
-
-
-
- 
-
 </div>
-
-
-
-
-
-
-
-
 
 
 
