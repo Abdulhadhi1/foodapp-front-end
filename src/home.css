@@ -13,7 +13,7 @@
     box-sizing: border-box;
     text-decoration: none;
     outline: none; border:none;
-    text-transform: capitalize;
+   
     transition: all .2s linear;
 }
 .home{
@@ -92,12 +92,12 @@
   border-radius: .5rem;
   cursor: pointer;
   padding:.4rem 1rem;
-} */
+}
 
 .btn:hover{
   background: var(--green);
   letter-spacing: .1rem;
-}
+} */
 .about .row{
   display: flex;
   flex-wrap: wrap;
