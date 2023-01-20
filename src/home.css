@@ -42,7 +42,7 @@
 }
 
 .home .image img{
-  width:100%;
+  width:60%;
   padding:1rem;
   animation:float 3s linear infinite;
 
@@ -110,7 +110,7 @@
 }
 
 .about .row .image img{ 
-  width: 100%;
+  width: 70%;
 }
 
 .about .row .content{
