@@ -48,11 +48,11 @@ export default function Navbar() {
                       class="dropdown-menu"
                       aria-labelledby="dropdownMenuButton1"
                     >
-                      <li>
+                      {/* <li>
                         <a className="dropdown-item" href="/orders">
                           Orders
                         </a>
-                      </li>
+                      </li> */}
                   
                       <li>
                         <a
