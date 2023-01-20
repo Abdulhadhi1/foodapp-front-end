@@ -54,9 +54,14 @@ export default function LoginScreen() {
               className="btn mt-3 mb-3 text-decoration-none"
             >
               LOGIN
-            </button>
+            </button><br />
+            <div className="username">
+            user: test123@gmail.com <br />
+            password: 12345
+            
+            </div>
            
-            <br />    <br />
+            <br /> 
             <a style={{ color: "black" }} href="/register" className="lg-title">
               Click Here To Register
             </a>
