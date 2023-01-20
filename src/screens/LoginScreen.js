@@ -30,8 +30,8 @@ export default function LoginScreen() {
           <h2 style={{ fontSize: "35px" }}>LOGIN</h2>
           {loading && <Loading />}
           {error && <Error error="Invalid Credentials" />} <br />
-          <div>
-            <input
+          <div className="inputboxes">
+            <input 
               required
               type="text"
               placeholder="Email"
@@ -54,8 +54,9 @@ export default function LoginScreen() {
               className="btn mt-3 mb-3 text-decoration-none"
             >
               LOGIN
-            </button><br />
-          
+            </button>
+           
+            <br />    <br />
             <a style={{ color: "black" }} href="/register" className="lg-title">
               Click Here To Register
             </a>
