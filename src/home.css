@@ -102,8 +102,9 @@
   display: flex;
   flex-wrap: wrap;
   gap:1.5rem;
-  align-items: center;
+  text-align: left;
 }
+
 
 .about .row .image{
   flex:1 1 45rem;
